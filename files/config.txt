@@ -1,0 +1,6 @@
+token=[insert token here]
+key=$
+debug=0
+positive_reactions=wow,wau,hett,hot,mysigt,bra,fin,lmao,lol,cute
+negative_reactions=ugh,fy,nej
+reaction_weight_mod=1
